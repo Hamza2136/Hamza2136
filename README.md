@@ -1,54 +1,59 @@
-# Hi there! 👋 I'm Hamza Abid
+# 👋 Hi, I'm Hamza Abid  
 
-## 🚀 About Me
-I am a passionate and self-motivated **Software Engineering student** with a strong foundation in **software development, problem-solving, and collaboration**. I am always eager to learn new technologies and implement efficient, scalable solutions.
+🚀 **Software Engineer | Full Stack Developer | Problem Solver**  
 
-## 🎯 Currently
-- 📚 Pursuing **Bachelor of Software Engineering** at *The Islamia University of Bahawalpur* (CGPA: **3.84/4.00**).
-- 💼 Looking for exciting opportunities to **apply my skills and grow** as a developer.
-- 🔍 Exploring **.NET Core, Flutter, Angular, and Python**.
+I am a passionate and self-motivated **Software Engineering graduate** with a strong foundation in **backend APIs, cross-platform mobile apps, and responsive web development**. I enjoy solving problems, learning new technologies, and building scalable solutions that create real impact.  
 
-## 💡 Skills & Technologies
-### 🔹 Frontend Development
-- HTML5, CSS3, JavaScript, TypeScript
-- Bootstrap, Tailwind CSS
-- Angular, React.js, Next.js, Redux, Flutter
+---
 
-### 🔹 Backend Development
-- ASP.NET Core, .NET Web APIs, REST APIs, SQL Server
+## 🎯 Currently  
+- 🎓 Graduated with a **BS in Software Engineering** (CGPA: **3.86/4.0**) from *The Islamia University of Bahawalpur*.  
+- 💼 Seeking opportunities to apply my skills and grow as a professional developer.  
+- 🔍 Exploring **.NET Core, Flutter, Angular, and Python**.  
 
-### 🔹 DevOps & Tools
-- Git, GitHub
-- Postman, Swagger, VS Code, Visual Studio 2022, Android Studio
+---
 
-### 🔹 Programming Languages
-- C++, Python, C#
+## 💡 Skills & Technologies  
 
-### 🔹 Soft Skills
-- Problem Solving, Team Management, Communication, Troubleshooting, Decision Making
+**Frontend Development**  
+- HTML5, CSS3, JavaScript, TypeScript  
+- Angular, React.js, Next.js, Redux, Flutter  
+- Bootstrap, Tailwind CSS  
 
-## 🏆 Projects
-### 🖥️ CLI Projects
-- **Basic Jazz World App** *(C++)* - Simulated Jazz services functionality
-- **Casino Betting Game, Snake Water Game** *(Python)* - Interactive gaming applications
-- **Macro Recorder** *(Python)* - Automation tool for task recording and execution
+**Backend Development**  
+- ASP.NET Core, .NET Web APIs, REST APIs  
+- SQL Server, MySQL  
 
-### 🏗️ GUI & Backend Projects
-- **Windows Form Applications:** Bank Management System, ATM System, Calculator
-- **.NET Core Web Applications:**
-  - **Web Store & Book Store** - E-commerce web apps
-  - **Smart Event App Backend API** - Real-time event updates with SignalR
-  - **Chat Application** - Real-time messaging with SignalR
-  - **Car Parts Selling App Backend API** - Scalable REST API
+**Tools & Platforms**  
+- Git, GitHub, Postman, Swagger  
+- VS Code, Visual Studio 2022, Android Studio  
 
-### 📱 Web & Mobile Applications
-- **Flutter Apps:** Calculator, Note Keeper, Car Parts Selling App, Smart Event App
-- **Angular Apps:** Ticket Tracking App, Online Store
+**Programming Languages**  
+- C#, C++, Python  
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza-abid-6a2770332/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Hamza2136)
-📧 **Email:** hamzaabid208@gmail.com
+**Soft Skills**  
+- Problem Solving, Teamwork, Communication, Decision Making  
 
-## 🚀 Let's Build Something Amazing Together!
+---
 
+## 🏆 Projects  
+
+- 🖥️ **Bank Management System & ATM** – Desktop system with account handling & ATM simulation *(C#, SQL Server)*  
+- ⚙️ **Macro Recorder** – Automation tool for recording & executing macros *(Python)*  
+- 🌐 **Web Store & Book Store** – E-commerce solutions with cart & checkout *(ASP.NET Core, JavaScript)*  
+- 📱 **Smart Event App** – Real-time event management system *(.NET Core, SignalR, Flutter)*  
+- 💬 **Chat Application** – Real-time messaging platform *(SignalR, Angular)*  
+- 🚗 **Car Parts Selling App** – Scalable REST API & cross-platform app *(.NET Core, Flutter)*  
+- 🎟️ **Ticket Tracking App** – Web-based ticket management *(Angular, .NET Core, MySQL)*  
+
+---
+
+## 🌐 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamza-abid-6a2770332)  
+- 🐙 [GitHub](https://github.com/Hamza2136)  
+- 📧 Email: **hamzaabid208@gmail.com**  
+
+---
+
+✨ *“Always learning, always building — passionate about turning ideas into impactful software solutions.”*  
